@@ -53,10 +53,13 @@ Entweder macht man es strukturiert Ã¼ber das Gaussverfahren ( weniger fehleranfÃ
 $$
 x_1 = 30
 $$
+
 $$
 x_2 = 60
 $$
+
 $$
 x_3 = 45
 $$
+
 </details>
