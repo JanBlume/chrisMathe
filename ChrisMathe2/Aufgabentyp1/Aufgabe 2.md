@@ -3,9 +3,7 @@ Alfred und Basti wiegen zusammen 90 kg. Basti ist 15 kg schwerer als Charles. Ba
 
 <details>
 <summary>Lösung</summary>
-
 Schritt 1: Variablen definieren
-
 $$
 x_1 := Alfred
 $$
@@ -41,7 +39,6 @@ $$
 
 <details>
 <summary>Lösung</summary>
-
 Schritt 1: Variablen definieren
 
 $$
