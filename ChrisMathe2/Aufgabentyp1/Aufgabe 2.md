@@ -47,6 +47,17 @@ Bonusaufgabe: Kannst du das Gleichungssystem lösen? Wie schwer sind Alfred, Bas
 <details>
 <summary>Lösung</summary>
 
+
+$$
+x_1 := Alfred
+$$
+$$
+x_2 := Basti
+$$
+$$
+x_3 := Charles
+$$
+
 Es gibt verschiedene Lösungswege.
 Entweder macht man es strukturiert über das Gaussverfahren ( weniger fehleranfällig und sehr empfohlen) oder man löst es chaotisch. Chaotisch würde ich es so machen: Gleichung $III$ in Gleichung $I$ einsetzen. Das Ergebnis wiederum in Gleichung $III$ und das Ergebnis schlussendlich in Gleichung $II$.
 
