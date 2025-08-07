@@ -46,7 +46,7 @@ Satz 2: In 20 Jahren wird er (der Mann) doppelt so alt wie sein Bruder heute sei
 
 Aus dem Teil "In 20 Jahren wird der Mann" machen wir folgende Formel:
 
-$ x_1 + 20$
+$x_1 + 20$
 
 Wir rechnen also 20 Jahre auf das Alter des Mannes drauf.
 
@@ -68,7 +68,7 @@ Mathematisch also, welche Werte für $x_1$ und $x_2$ passen.
 
 Gegeben ist unser Gleichungssystem:
 
-$   I:  x_1 = x_2 + 5 
+$I:  x_1 = x_2 + 5 
 $
 
 $II: x_1 +20 = 2x_2
