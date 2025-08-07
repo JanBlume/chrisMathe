@@ -80,29 +80,21 @@ Einsetzungsverfahren, Gleichsetzungsverfahren, Additionsverfahren oder für komp
 Für unseren "einfachen" Fall können wir das Einsteungsverfahren gut nutzen. Man kann gut Gleichung $I$ in Gleihung $II$ einsetzen. Wir ersetzen also $x_1$ in Gleichung $II$ durch den Term aus Gleichung $I$.
 
 
-$(x_2+5) + 20 = 2 x_2
-$
+$(x_2+5) + 20 = 2 x_2$
 
-$x_2 +25 = 2 x_2  
+$x_2 +25 = 2 x_2  $
 
-$
+$x_2 +25 = 2 x_2\quad \vert - x_2$
 
-$x_2 +25 = 2 x_2\quad \vert - x_2
-$
-
-$$25 = x_2
-$$
+$$25 = x_2$$
 
 Der Bruder ist also heute 25.
 
 Und der Mann? Dafür können wir jetzt Gleichugn $I$ nutzen.
 
-$$   I:  x_1 = x_2 + 5
-   
-$$
+$$I:  x_1 = x_2 + 5$$
 
-$$x_1 = 25 + 5 = 30
-$$
+$$x_1 = 25 + 5 = 30$$
 
 Der Mann ist also 30. Das Ergebnis kann man jetzt nochmal kurz checken. Der Mann ist tatsächlich 5 Jahre älter. Und in zwanzig Jahren wäre er 50, also doppelt so alt wie sein Bruder mit 25 heute. Passt alles.
 
