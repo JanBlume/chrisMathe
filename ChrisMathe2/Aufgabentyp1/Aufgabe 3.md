@@ -47,13 +47,10 @@ Bonusaufgabe: Wie viel verdient man mit Nachtclub, Waschanlage und Agentur?
 <summary>Lösung</summary>
 
 
+$$x_1 = 50,000
 $$
-x_1 = 50,000
+$$x_2 = 10,000
 $$
-$$
-x_2 = 10,000
-$$
-$$
-x_3 = 20,000
+$$x_3 = 20,000
 $$
 </details>
