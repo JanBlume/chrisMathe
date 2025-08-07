@@ -38,7 +38,6 @@ III:  x_2 = 2x_1
 $$
 </details>
 
-----
 
 <details>
 <summary>Lösung</summary>
