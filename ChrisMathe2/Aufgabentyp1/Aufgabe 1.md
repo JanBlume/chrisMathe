@@ -39,27 +39,22 @@ Wenn ich zu dem Alter des Bruders ($x_2$) 5 Jahre dazuaddiere, erhalte ich das A
 
 Und als Formel:
 
-$
-    x_1 = x_2 + 5
-$
+$x_1 = x_2 + 5$
 
 
 Satz 2: In 20 Jahren wird er (der Mann) doppelt so alt wie sein Bruder heute sein.
 
 Aus dem Teil "In 20 Jahren wird der Mann" machen wir folgende Formel:
 
-$
-    x_1 + 20
-$
+$ x_1 + 20$
+
 Wir rechnen also 20 Jahre auf das Alter des Mannes drauf.
 
 Aus dem Teil "wie sein Bruder heute" wird klar, auf das Alter des Bruders müssen wir keine 20 Jahre dazuaddieren.
 
 Und schlussendlich mit dem doppelt so alt ergibt sich:
 
-$
-x_1 +20 = 2x_2
-$
+$x_1 +20 = 2x_2$
 
 Hinweis: Der Stolperstein bei dem Aufgabentyp ist häufig, die Seite der Gleichung auf die man die "+5" oder die "2" hinschreibt. Deswegen halte am Besten an der Stelle kurz inne und überprüfe drei mal, ob das so passt. 
 </details>
@@ -73,13 +68,10 @@ Mathematisch also, welche Werte für $x_1$ und $x_2$ passen.
 
 Gegeben ist unser Gleichungssystem:
 
-$
-   I:  x_1 = x_2 + 5
-   
+$   I:  x_1 = x_2 + 5 
 $
 
-$
-II: x_1 +20 = 2x_2
+$II: x_1 +20 = 2x_2
 $
 
 Zum Lösen gibt es jetzt viele unterschiedliche Verfahren:
@@ -88,34 +80,28 @@ Einsetzungsverfahren, Gleichsetzungsverfahren, Additionsverfahren oder für komp
 Für unseren "einfachen" Fall können wir das Einsteungsverfahren gut nutzen. Man kann gut Gleichung $I$ in Gleihung $II$ einsetzen. Wir ersetzen also $x_1$ in Gleichung $II$ durch den Term aus Gleichung $I$.
 
 
-$
-(x_2+5) + 20 = 2 x_2
+$(x_2+5) + 20 = 2 x_2
 $
 
-$
-x_2 +25 = 2 x_2  
+$x_2 +25 = 2 x_2  
 
 $
 
-$
-x_2 +25 = 2 x_2\quad \vert - x_2
+$x_2 +25 = 2 x_2\quad \vert - x_2
 $
 
-$$
-25 = x_2
+$$25 = x_2
 $$
 
 Der Bruder ist also heute 25.
 
 Und der Mann? Dafür können wir jetzt Gleichugn $I$ nutzen.
 
-$$
-   I:  x_1 = x_2 + 5
+$$   I:  x_1 = x_2 + 5
    
 $$
 
-$$
-x_1 = 25 + 5 = 30
+$$x_1 = 25 + 5 = 30
 $$
 
 Der Mann ist also 30. Das Ergebnis kann man jetzt nochmal kurz checken. Der Mann ist tatsächlich 5 Jahre älter. Und in zwanzig Jahren wäre er 50, also doppelt so alt wie sein Bruder mit 25 heute. Passt alles.
